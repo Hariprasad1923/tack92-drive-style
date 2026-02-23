@@ -3,14 +3,14 @@ import PhotoPlaceholder from "./PhotoPlaceholder";
 import { ShoppingCart } from "lucide-react";
 
 const products = [
-  { name: "Carbon Fiber Steering Wheel", price: "$249.99", tag: "Best Seller" },
-  { name: "LED Underglow Kit", price: "$89.99", tag: "New" },
-  { name: "Premium Leather Seat Covers", price: "$179.99", tag: null },
-  { name: "Sport Exhaust Tip - Dual", price: "$64.99", tag: "Sale" },
-  { name: "360° Dash Cam HD", price: "$129.99", tag: "Popular" },
-  { name: "Alloy Wheel Set 18\"", price: "$599.99", tag: null },
-  { name: "Custom Floor Mats", price: "$49.99", tag: "New" },
-  { name: "Turbo Air Intake System", price: "$199.99", tag: "Performance" },
+  { name: "Carbon Fiber Steering Wheel", price: "₹20,999", tag: "Best Seller" },
+  { name: "LED Underglow Kit", price: "₹7,499", tag: "New" },
+  { name: "Premium Leather Seat Covers", price: "₹14,999", tag: null },
+  { name: "Sport Exhaust Tip - Dual", price: "₹5,499", tag: "Sale" },
+  { name: "360° Dash Cam HD", price: "₹10,999", tag: "Popular" },
+  { name: "Alloy Wheel Set 18\"", price: "₹49,999", tag: null },
+  { name: "Custom Floor Mats", price: "₹3,999", tag: "New" },
+  { name: "Turbo Air Intake System", price: "₹16,999", tag: "Performance" },
 ];
 
 const containerVariants = {
